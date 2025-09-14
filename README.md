@@ -1,5 +1,1 @@
-Hello
-
-*Nosferatu is coming*
-
-Bread
+Hello. I am Let.
